@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sai Ravi Teja
-- 👀 I’m interested in Gamedev, Competetive coding and Music production
+- 👀 I’m intrigued by Gamedev, Competetive coding and Music production
 - 🌱 I’m currently learning gamedev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @floare_dor
